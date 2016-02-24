@@ -534,7 +534,7 @@ header a.button {
   position: absolute;
   top: 0;
   right: 0;
-  background: transparent url(../images/github-button.png) 0 0 no-repeat;
+  background: transparent url(../images/linkedIn-button.png) 0 0 no-repeat;
 }
 a.button2 small {
   display: block;
@@ -544,7 +544,7 @@ header a.button2 {
   position: absolute;
   top: 2;
   right: 0;
-  background: transparent url(../images/linkedIn-button.png) 0 0 no-repeat;
+  background: transparent url(../images/github-button.png) 0 0 no-repeat;
 }
 aside a.button {
   display: block;
